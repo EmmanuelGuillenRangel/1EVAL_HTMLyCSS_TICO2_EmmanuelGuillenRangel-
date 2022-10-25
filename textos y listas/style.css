@@ -4,3 +4,6 @@ font-style: oblique;
 span.negrita{
     font-weight: bold;
 }
+ul{
+    list-style-image: url("img/pollo.png")
+}
